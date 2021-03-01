@@ -1,7 +1,7 @@
 ## VGS Collect iOS SDK - React Native Demo
 
-This examples shows how easily you can integrate <a href="https://github.com/verygoodsecurity/vgs-collect-ios">VGS Collect iOS SDK</a> 
-into your React Native application and secure sensitive data with us.
+> **_NOTE:_** VGS does not support React Native. This examples shows how easily you can integrate <a href="https://github.com/verygoodsecurity/vgs-collect-ios">VGS Collect iOS SDK</a> into your React Native application and secure sensitive data with us.
+
 
 ## How to run it?
 
